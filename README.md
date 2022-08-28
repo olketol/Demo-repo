@@ -1,3 +1,3 @@
 # Demo
 
-Sme description video for beginners
+Some description video for beginners
